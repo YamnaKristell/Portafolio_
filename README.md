@@ -26,9 +26,9 @@ COLEGIO SANTA CATALINA LABOURE
 En esta seccion encontraras el link de  los wireframes trabajados durante este IV Periodo que trabajamos la aplicacion School ERP 🌎
 Cada uno de ellos con soporte para Ipad y Desktop.
 
--
--https://yamnakristell.github.io/login_1/
--
+https://yamnakristell.github.io/school_splash/
+https://yamnakristell.github.io/login_1/
+
 
 ![app school](https://user-images.githubusercontent.com/79730258/137014022-b6192e0f-75b0-41fd-8df0-6dd5cec0024c.png)
 
